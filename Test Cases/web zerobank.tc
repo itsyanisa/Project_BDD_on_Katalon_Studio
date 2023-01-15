@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login</description>
+   <name>web zerobank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd811ec9-314f-4817-b41f-5d0537f47a8c</testCaseGuid>
+</TestCaseEntity>
